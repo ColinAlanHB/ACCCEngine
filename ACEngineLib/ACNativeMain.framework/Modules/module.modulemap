@@ -1,0 +1,6 @@
+framework module ACNativeMain {
+  umbrella header "ACNativeMain.h"
+
+  export *
+  module * { export * }
+}
