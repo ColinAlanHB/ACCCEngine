@@ -3,7 +3,7 @@
 //  ACNativeMain
 //
 //  Created by CloudWind on 2017/8/2.
-//  Copyright © 2017年 coracle. All rights reserved.
+//  Copyright © 2017年 appcan. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
